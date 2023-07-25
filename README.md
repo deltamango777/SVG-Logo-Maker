@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a node.js command-line apoplication designed to take in user input to generate a logo and save it as an SVG file. Through the use of prompts, it allows the user to achieve just that. 
+This is a node.js command-line application designed to take in user input to generate a logo and save it as an SVG file. Through the use of prompts, it allows the user to achieve just that. 
 
 - What was your motivation?
 To be able to easily create svg files with a simple prompt set-up for time efficiency and convenience.
