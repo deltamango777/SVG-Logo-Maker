@@ -21,7 +21,7 @@ You install the repo and then go into the command line. You call node index.js t
 
 After calling it, you are prompted with questions. Answer each one and then watch as a logo.svg file is generated in the root directory. Drag and drop that into a new tab in your web browser and it should display the desired svg based on the users' given answers. 
 
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 ## Credits
 
